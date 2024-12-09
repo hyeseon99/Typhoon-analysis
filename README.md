@@ -30,11 +30,11 @@
     </td>
     <td align="center">
       <img src="./태풍분석1.png" alt="태풍 분석 슬라이드 2" width="400">
-      <p>태풍 분석 데이터 탐색</p>
+      <p>데이터 탐색</p>
     </td>
     <td align="center">
       <img src="./태풍분석2.png" alt="태풍 분석 슬라이드 3" width="400">
-      <p>태풍 분석 데이터 분석</p>
+      <p>데이터 분석</p>
     </td>
   </tr>
 </table>
